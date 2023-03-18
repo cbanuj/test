@@ -1,0 +1,8 @@
+[11-Oct-2019 05:53:04 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/jaspreetoutgrow/public_html/nwnt.ai/nwnt_updated/application/views/admin/manage_meta_keyword/add_meta_keyword.php on line 59
+[19-Oct-2019 10:21:56 UTC] PHP Fatal error:  Call to undefined method Payment_model::TestPaymentUpdate() in /home/jaspreetoutgrow/public_html/nwnt.ai/nwnt_updated/application/controllers/TakeATest.php on line 150
+[21-Oct-2019 11:41:42 UTC] PHP Fatal error:  Call to undefined method Payment_model::TestPaymentUpdate() in /home/jaspreetoutgrow/public_html/nwnt.ai/nwnt_updated/application/controllers/TakeATest.php on line 150
+[04-Nov-2019 12:36:10 UTC] PHP Fatal error:  Call to undefined method WhoAreWe_model::GetActiveLimitTestimonials() in /home/jaspreetoutgrow/public_html/nwnt.ai/nwnt_updated/application/controllers/Home.php on line 30
+[04-Nov-2019 12:36:17 UTC] PHP Fatal error:  Call to undefined method WhoAreWe_model::GetActiveLimitTestimonials() in /home/jaspreetoutgrow/public_html/nwnt.ai/nwnt_updated/application/controllers/Home.php on line 30
+[04-Nov-2019 12:41:50 UTC] PHP Fatal error:  Call to undefined method WhoAreWe_model::GetActiveLimitTestimonials() in /home/jaspreetoutgrow/public_html/nwnt.ai/nwnt_updated/application/controllers/Home.php on line 30
+[06-Nov-2019 06:59:45 UTC] PHP Parse error:  syntax error, unexpected ''succe' (T_ENCAPSED_AND_WHITESPACE) in /home/jaspreetoutgrow/public_html/nwnt.ai/nwnt_updated/application/controllers/ManageWhoAreWe.php on line 433
+[11-Nov-2019 14:24:00 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home/jaspreetoutgrow/public_html/nwnt.ai/nwnt_updated/application/models/TestRequest_model.php on line 130
